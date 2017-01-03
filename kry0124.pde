@@ -1,4 +1,4 @@
-import processing.video.*;                            // KCR 4x2 screens for Ryerson ~ December 2016 Dan Ribaudo
+import processing.video.*;                            // KCR 4x2 screens for Ryerson ~ January 2017 Dan Ribaudo
 int tile_w = 1920 / 4;                                // CONTROLS:
 int tile_h = 540 / 2;                                 // o: slower, longer intervals between slide changes
 Screen[] tvs = new Screen[11];                        // p: faster, shorter intervals between slide changes
