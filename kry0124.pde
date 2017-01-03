@@ -5,7 +5,7 @@ Screen[] tvs = new Screen[11];                        // p: faster, shorter inte
                                                       // k: slower, longer crossfades
 SuperScreen ss = new SuperScreen();                   // l: faster, shorter crossfades
 CategoryAlbum[] cats = new CategoryAlbum[8];          // 
-CategoryAlbum ca;                                     // m: mute / unmute toggle audio at lesiure 
+CategoryAlbum ca;                                     // m: mute / unmute toggle audio
 TextAlbum textAlbum;                                  //
 OsdMaster osdMaster;                                  // q: no movie, 8 stills
 int lastMillis = 100;                                 // w: big movie left half
